@@ -1,0 +1,1 @@
+Created a portfolio page that had links in the nav bar that scroll to the desired section smoothly. Also made the images in the work section links so that when clicked on take the user to my github page. Added links to all of my contact infomation.
